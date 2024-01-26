@@ -119,7 +119,7 @@ Strip and The None-trivial Zeros of Zeta Function](https://github.com/shaimaasul
 ---
 [Math Paper/Collatz3NPlus1.docx](https://github.com/shaimaasultan/MathPapers/blob/main/Math%20Paper/Collatz3NPlus1.docx)
 
-## $\textcolor{red}{ (23) Fraction/ Expansion/ using/ Step/ Pyramid/ Distribution/ for/ Prime/ Numbers/ and/ Rhind/ Mathematical/ Papyrus/ (RMP)}$
+## $\textcolor{red}{ (23) Fraction\ Expansion\ using\ Step\ Pyramid\ Distribution\ for\ Prime\ Numbers\ and\ Rhind\ Mathematical\ Papyrus\ (RMP)}$
 ---
 
 [Math Paper/Fraction Expansion using Step Pyramid Distribution for Prime Numbers and Rhind Mathematical Papyrus (RMP).pdf](https://github.com/shaimaasultan/MathPapers/blob/main/Math%20Paper/Fraction%20Expansion%20using%20Step%20Pyramid%20Distribution%20for%20Prime%20Numbers%20and%20Rhind%20Mathematical%20Papyrus%20(RMP).pdf)
@@ -182,6 +182,10 @@ Strip and The None-trivial Zeros of Zeta Function](https://github.com/shaimaasul
 
 [ Math Paper/Gerneral_R_N.docx  partiton window one term must be equal to Zero regardless of the partition size N.](https://github.com/shaimaasultan/MathPapers/blob/main/Math%20Paper/Gerneral_R_N.docx)
 
+## $\textcolor{red}{ (35) Gamma\ Function\ and\ Inverse\ Domain\ for\ Trigonometric\ Functions\ }$
+---	
+
+[Math Paper/ζS.docx](https://github.com/shaimaasultan/MathPapers/blob/main/Math%20Paper/%CE%B6S.docx)
 
 
 
