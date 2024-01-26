@@ -161,7 +161,26 @@ Strip and The None-trivial Zeros of Zeta Function](https://github.com/shaimaasul
 [Math Paper/sum_real_series.docx](https://github.com/shaimaasultan/MathPapers/blob/main/Math%20Paper/sum_real_series.docx)
 
 
+## $\textcolor{red}{ (31)Coordinate\ Systems\ and\ complex\ Plane\ MianFold}$
+---	
 
+[Math Paper/MianFold_AND_ZETA_Zeros.docx](https://github.com/shaimaasultan/MathPapers/blob/main/Math%20Paper/MianFold_AND_ZETA_Zeros.docx)
+
+## $\textcolor{red}{ (32) X\ and\ 1/X\}$
+---	
+
+[Math Paper/THE Solution.docx](https://github.com/shaimaasultan/MathPapers/blob/main/Math%20Paper/THE%20Solution.docx)
+
+
+## $\textcolor{red}{ (33) Why\ We\ have\ one\ pole=1\ in\ Zeta\ Function\ }$
+---	
+
+[Math Paper/Why one pole.docx](https://github.com/shaimaasultan/MathPapers/blob/main/Math%20Paper/Why%20one%20pole.docx)
+
+## $\textcolor{red}{ (34) Golden\ Ratio\ General\ Definition\  }$
+---	
+
+[ Math Paper/Gerneral_R_N.docx  partiton window one term must be equal to Zero regardless of the partition size N.](https://github.com/shaimaasultan/MathPapers/blob/main/Math%20Paper/Gerneral_R_N.docx)
 
 
 
