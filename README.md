@@ -1,4 +1,6 @@
-# Math Papers
+<img src="Math Paper/IMG_1259.jpg" width="100" />
+
+# Math Papers    
 ---
 
 ## $\textcolor{red}{ (1) Step\ Pyramid\ Distribution\ for\ Prime\ Numbers\ }$
