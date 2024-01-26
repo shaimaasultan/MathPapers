@@ -115,10 +115,50 @@ Strip and The None-trivial Zeros of Zeta Function](https://github.com/shaimaasul
 
 [Riemannian geometry manifold and unfolding using axiomatic method in complex plane](https://github.com/shaimaasultan/MathPapers/blob/main/Math%20Paper/Riemannian%20geometry%20manifold%20and%20unfolding%20using%20axiomatic%20method%20in%20complex%20plane.pdf)
 
+## $\textcolor{red}{ (22) On Collatz }$
+---
+[Math Paper/Collatz3NPlus1.docx](https://github.com/shaimaasultan/MathPapers/blob/main/Math%20Paper/Collatz3NPlus1.docx)
+
+## $\textcolor{red}{ (23) Fraction/ Expansion/ using/ Step/ Pyramid/ Distribution/ for/ Prime/ Numbers/ and/ Rhind/ Mathematical/ Papyrus/ (RMP)}$
+---
+
+[Math Paper/Fraction Expansion using Step Pyramid Distribution for Prime Numbers and Rhind Mathematical Papyrus (RMP).pdf](https://github.com/shaimaasultan/MathPapers/blob/main/Math%20Paper/Fraction%20Expansion%20using%20Step%20Pyramid%20Distribution%20for%20Prime%20Numbers%20and%20Rhind%20Mathematical%20Papyrus%20(RMP).pdf)
+
+## $\textcolor{red}{ (24) Natural Numbers and partition window}$
+---
+
+[Math Paper/Gerneral_R_N.docx](https://github.com/shaimaasultan/MathPapers/blob/main/Math%20Paper/Gerneral_R_N.docx)
+
+## $\textcolor{red}{ (25) Lambert\ function\ and\ quadratic\ summation\ for\ numbers\ from\ 1:N}$
+---
+
+[Math Paper/Lambert.docx](https://github.com/shaimaasultan/MathPapers/blob/main/Math%20Paper/Lambert.docx)
+
+## $\textcolor{red}{ (26) N-Dimension\ Visualization\ in\ 2-Dimension\ Space\ and\ Prime\ Numbers\ Distribution\ on\ N-Side\ Shape\ and\ Higher\ Dimension\}$
+---
+
+[Math Paper/N-Dimension Visualization in 2D and Prime Numbers Distribution in 6D.pdf](https://github.com/shaimaasultan/MathPapers/blob/main/Math%20Paper/N-Dimension%20Visualization%20in%202D%20and%20Prime%20Numbers%20Distribution%20in%206D.pdf)
 
 
+## $\textcolor{red}{ (27) Fraction\ Expansion\ using\ Step\ Pyramid\ Distribution\ for\ Prime\ Numbers\ and\ Rhind\ Mathematical\ Papyrus\ (RMP)\}$
+---
 
+[Math Paper/Rhind Mathematical Papyrus Using Pyramid Distribution_2.pdf](https://github.com/shaimaasultan/MathPapers/blob/main/Math%20Paper/Rhind%20Mathematical%20Papyrus%20Using%20Pyramid%20Distribution_2.pdf)
 
+## $\textcolor{red}{ (28) Critical\ Line\ and\ Zeta\ Function\}$
+---
+
+[Math Paper/Strip_Line.docx](https://github.com/shaimaasultan/MathPapers/blob/main/Math%20Paper/Strip_Line.docx)
+
+## $\textcolor{red}{ (29) Symmetry\ around\ the\ strip\ line\ With\ heterogeneous\ terms \}$
+---
+
+[Math Paper/We can Write 1 as.docx](https://github.com/shaimaasultan/MathPapers/blob/main/Math%20Paper/We%20can%20Write%201%20as.docx)
+
+## $\textcolor{red}{ (30) Explain\ what\ happen\ between\ 0\ and\ 1\}$
+---
+
+[Math Paper/sum_real_series.docx](https://github.com/shaimaasultan/MathPapers/blob/main/Math%20Paper/sum_real_series.docx)
 
 
 
